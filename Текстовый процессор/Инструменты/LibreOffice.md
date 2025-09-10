@@ -9,6 +9,8 @@
 
 ## Где скачать?
 
+https://ru.libreoffice.org/
+
 https://www.libreoffice.org/
 
 ## Основные компоненты
