@@ -9,7 +9,7 @@ views:
       - file.name
       - автор
       - год
-      - издетельство
+      - издательство
     sort: []
     columnSize:
       note.автор: 218

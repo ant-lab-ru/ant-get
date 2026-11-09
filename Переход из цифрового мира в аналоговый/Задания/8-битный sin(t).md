@@ -30,7 +30,7 @@
 
 ## Инструкция (signal_generator)
 
-1. Импортируйте модул **numpy** и **time**
+1. Импортируйте модули **numpy** и **time**
 2. Реализуйте функцию **get_sin_wave_amplitude(freq, time)**
 
 > [!NOTE] Примечание
